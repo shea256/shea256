@@ -6,18 +6,19 @@
 - MechE & CS at Princeton
 - Working on a new stealth company (coming soon)
 
-#### My Open-Source Projects
+#### Open-Source
 
 - 🧰 Libraries I'm developing: [micro-btc](https://github.com/micro-btc/micro-btc)
 - 💵 Libraries I've commissioned: [micro-btc-signer](https://github.com/shea256/micro-btc-signer)
 - 👀 Libraries looking for maintainers: [secret-sharing](https://github.com/shea256/secret-sharing), [emojicoding](https://github.com/shea256/emojicoding)
+- 💞️ Favorite languages & frameworks: JavaScript, TypeScript, Python, React, NextJS
 
 #### Interests
 
-- 💞️ I’m interested in JavaScript, TypeScript, Python, React, NextJS, cryptography and cryptocurrency.
-- 🌱 I’m currently learning more about biotech and AI.
-- 📁 My side projects: [infinitism](https://www.infinitism.com/), [Voterbase](https://www.voterbase.com/)
-- 💵 My investments: [investment portfolio](https://www.shea.io/investments)
+- 💭 Philosophy: [infinitism](https://www.infinitism.com/)
+- 🗳️ Democracy: [Voterbase](https://www.voterbase.com/)
+- 🌱 Biotech: [The Cybernetic Immune System](https://www.infinitefrontier.com/p/the-cybernetic-immune-system)
+- 💵 Angel investing: [investment portfolio](https://www.shea.io/investments)
 
 #### Contact
 
