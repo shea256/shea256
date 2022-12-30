@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ryan Shea.
-- 👀 I’m interested in JavaScript, TypeScript, Python, and cryptography.
-- 🌱 I’m currently learning more about AI and biotech.
+- 👀 I’m interested in JavaScript, TypeScript, Python, React, NextJS, cryptography and cryptocurrency.
+- 🌱 I’m currently learning more about biotech and AI.
 - 💞️ I’m looking to collaborate on open-source cryptography libraries.
 - 🧰 Libraries I'm developing: [micro-btc](https://github.com/micro-btc/micro-btc)
 - 💵 Libraries I've commissioned: [micro-btc-signer](https://github.com/shea256/micro-btc-signer)
