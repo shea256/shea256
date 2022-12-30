@@ -3,3 +3,6 @@
 - 🌱 I’m currently learning more about AI and biotech.
 - 💞️ I’m looking to collaborate on open-source cryptography libraries.
 - 📫 How to reach me: ryanshea@shea.io.
+- Libraries I'm developing: [micro-btc](https://github.com/micro-btc/micro-btc)
+- Libraries I've sponsored/commissioned: [micro-btc-signer](https://github.com/shea256/micro-btc-signer)
+- My websites: [shea.io](https://www.shea.io/), [infinitism](https://www.infinitism.com/)
