@@ -15,13 +15,13 @@
 
 #### Interests
 
-- 💭 Philosophy: [infinitism](https://www.infinitism.com/)
+- 💭 Philosophy: [Infinitism](https://www.infinitism.com/)
 - 🗳️ Democracy: [Voterbase](https://www.voterbase.com/)
 - 🌱 Biotech: [Cybernetic Immunity](https://www.infinitefrontier.com/p/the-cybernetic-immune-system), [Scaling Viral Testing](https://www.infinitefrontier.com/p/solving-the-testing-crisis-with-math)
 - 💵 Angel investing: [investment portfolio](https://www.shea.io/investments)
 
 #### Contact
 
-- 🐤 Social Media: [Twitter](https://twitter.com/ryaneshea), [LinkedIn](https://www.linkedin.com/in/ryaneshea/)
+- 🐤 Social Media: [Twitter](https://twitter.com/ryaneshea), [LinkedIn](https://www.linkedin.com/in/ryaneshea/), [Instagram](https://www.instagram.com/ryaneshea/)
 - 🔗 Website: [shea.io](https://www.shea.io/)
 - 📫 Email: [ryanshea@shea.io](mailto:ryanshea@shea.io).
