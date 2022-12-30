@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ryan Shea.
+- 👋 Hi, I’m Ryan Shea. I co-founded [Stacks](https://www.stacks.co/) and now I'm working on a new stealth crypto company.
 - 👀 I’m interested in JavaScript, TypeScript, Python, React, NextJS, cryptography and cryptocurrency.
 - 🌱 I’m currently learning more about biotech and AI.
 - 💞️ I’m looking to collaborate on open-source cryptography libraries.
