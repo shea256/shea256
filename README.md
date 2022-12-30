@@ -17,6 +17,7 @@
 - 💞️ I’m interested in JavaScript, TypeScript, Python, React, NextJS, cryptography and cryptocurrency.
 - 🌱 I’m currently learning more about biotech and AI.
 - 📁 My side projects: [infinitism](https://www.infinitism.com/), [Voterbase](https://www.voterbase.com/)
+- 💵 My investments: [investment portfolio](https://www.shea.io/investments)
 
 #### Contact
 
