@@ -17,7 +17,7 @@
 
 - 💭 Philosophy: [infinitism](https://www.infinitism.com/)
 - 🗳️ Democracy: [Voterbase](https://www.voterbase.com/)
-- 🌱 Biotech: [The Cybernetic Immune System](https://www.infinitefrontier.com/p/the-cybernetic-immune-system)
+- 🌱 Biotech: [Cybernetic Immunity](https://www.infinitefrontier.com/p/the-cybernetic-immune-system), [Better COVID Testing with Math](https://www.infinitefrontier.com/p/solving-the-testing-crisis-with-math)
 - 💵 Angel investing: [investment portfolio](https://www.shea.io/investments)
 
 #### Contact
