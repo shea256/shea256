@@ -3,8 +3,8 @@
 #### Background
 
 - Co-founder of [Stacks](https://www.stacks.co/)
-- MechE & CS at Princeton
 - Working on a new stealth company (coming soon)
+- MechE & CS at Princeton
 
 #### Open-Source
 
