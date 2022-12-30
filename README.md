@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ryan Shea.
+- 👀 I’m interested in JavaScript, TypeScript, Python, and cryptography.
+- 🌱 I’m currently learning more about AI and biotech.
+- 💞️ I’m looking to collaborate on open-source cryptography libraries.
+- 📫 How to reach me: ryanshea@shea.io.
