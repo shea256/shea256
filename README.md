@@ -12,7 +12,7 @@
 - 💵 Libraries I've commissioned: [micro-btc-signer](https://github.com/shea256/micro-btc-signer)
 - 👀 Libraries looking for maintainers: [secret-sharing](https://github.com/shea256/secret-sharing), [emojicoding](https://github.com/shea256/emojicoding), [flask-app-generator](https://github.com/shea256/flask-app-generator)
 - 💞️ Favorite languages & frameworks: JavaScript, TypeScript, Python, React, NextJS
-- 🚧 Weekend projects: [Movement](https://github.com/shea256/movement-for-twitter)
+- 🚧 Weekend projects: [Feedblocker](https://github.com/shea256/feedblocker), [Movement](https://github.com/shea256/movement-for-twitter)
 
 #### Interests
 
