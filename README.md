@@ -2,8 +2,8 @@
 
 #### Background
 
+- Founder, CEO of [Opus](https://www.opuswallet.com/)
 - Co-founder of [Stacks](https://www.stacks.co/)
-- Working on a new stealth company (coming soon)
 - MechE & CS at Princeton
 
 #### Open-Source
