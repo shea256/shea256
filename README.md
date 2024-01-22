@@ -2,7 +2,7 @@
 
 #### Background
 
-- Founder, CEO of [Opus](https://www.opuswallet.com/)
+- CEO of [Opus](https://www.opuswallet.com/)
 - Co-creator of [Stacks](https://www.stacks.co/)
 - MechE & CS at Princeton
 
