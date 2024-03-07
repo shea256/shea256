@@ -4,7 +4,8 @@
 
 - CEO & Founder of [Opus](https://www.opuswallet.com/)
 - Co-founder of [Stacks](https://www.stacks.co/)
-- MechE & CS at Princeton
+- MechE & CS at Princeton; Co-founder of HackPrinceton & TigerTreks
+- Investor in Anchorage, OpenSea, Lightning, Privy, CoinTracker, Lattice, Mercury, Worldcoin, Goldfinch and more
 
 #### Contact
 
