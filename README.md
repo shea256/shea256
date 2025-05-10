@@ -4,7 +4,8 @@
 
 - Co-founder of [Stacks](https://www.stacks.co/)
 - Co-founder of [Opus](https://www.opuswallet.com/)
-- MechE & CS at Princeton; Co-founder of HackPrinceton & TigerTreks
+- Mechanical and Aerospace Engineering & Computer Science at Princeton
+- Co-founder of HackPrinceton & TigerTreks
 
 #### Contact
 
